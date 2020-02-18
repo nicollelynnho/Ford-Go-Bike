@@ -37,7 +37,7 @@ Another insight is that more trips are taken by subscribers than by customers, w
 The last insight is on trip duration. Customer trips are longer than subscriber trips which is possible because customers may want to enjoy the rare experience since they do not ride as often. Female trips are longer than male trips. Maybe women do not pedal as quickly as men do, but who knows as it is 2019. ;)
 
 
-Resources
+Resources 
 
 1.	Ford GoBike Website https://www.fordgobike.com/system-data
 2.	GoogleMaps https://www.google.com/maps
